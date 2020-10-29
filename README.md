@@ -1,6 +1,6 @@
 # Conflux Atom
 
-Conflux syntax theme for Atom
+Conflux syntax theme for Atom.
 
 DESCRIPTION
 
