@@ -2,8 +2,6 @@
 
 Conflux syntax theme for Atom
 
-A dark theme with pastel colors inspired by natural elements made for comfortable midnight coding sessions.
-
 DESCRIPTION
 
 A dark theme with pastel colors inspired by natural elements made for comfortable midnight coding sessions.
