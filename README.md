@@ -2,7 +2,7 @@
 
 Conflux syntax theme for Atom.
 
-![alt text](https://github.com/Julynx/conflux_atom/Atom_Conflux.png)
+![alt text](Atom_Conflux.png)
 
 DESCRIPTION
 
