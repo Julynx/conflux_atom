@@ -12,14 +12,14 @@ INSTALL
 1. Download using the GitHub .zip download option and unzip.
 
 2. Move the "conflux-dark-syntax" folder to "~/.atom/packages".
-   (If you dont see the ".atom" folder, try using CTRL + H to show hidden folders in most linux distros)
-   (If there is no "packages" folder inside the ".atom" folder, create a folder and name it "packages")
+(If you dont see the ".atom" folder, try using CTRL + H to show hidden folders in most linux distros)
+(If there is no "packages" folder inside the ".atom" folder, create a folder and name it "packages")
   
 3. Open Atom and navigate to Edit -> Preferences -> Themes
-   (Make sure "conflux-dark-syntax" appears under the "Installed Themes" section)
+(Make sure "conflux-dark-syntax" appears under the "Installed Themes" section)
   
 4. Use the "Syntax Theme" dropdown menu to select "Conflux Dark" as your Atom Syntax theme.
-   (You may use another "UI Theme" in combination with Conflux syntax theme)
+(You may use another "UI Theme" in combination with Conflux syntax theme)
   
 UNINSTALL
 
