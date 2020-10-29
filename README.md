@@ -2,6 +2,8 @@
 
 Conflux syntax theme for Atom.
 
+![alt text](https://github.com/Julynx/conflux_atom/Conflux_Atom.png?raw=true)
+
 DESCRIPTION
 
 A dark theme with pastel colors inspired by natural elements made for comfortable midnight coding sessions.
