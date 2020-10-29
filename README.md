@@ -1,4 +1,4 @@
-# conflux-syntax
+# Conflux Atom
 
 Conflux syntax theme for Atom
 
